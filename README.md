@@ -162,7 +162,8 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 ![image](https://user-images.githubusercontent.com/36288975/233856847-32bea88a-565f-4e01-9c7e-4f7ed546ddf6.png)
 
 14. Double click on the the MCU part to open settings. Next to the Program File option, give full path to the Hex file generated using STM32Cube IDE. Then set the external crystal frequency to 8M (i.e. 8 MHz). Click OK to save the changes.
-https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
+![SUDHAN](https://user-images.githubusercontent.com/119393980/235111058-e13971ea-ca3f-4984-9b6e-f41f805e1ccb.png)
+
 
 15. click on debug and simulate using simulation as shown below 
 
@@ -178,6 +179,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 
 ## Output screen shots of proteus  :
+![SUDHAN](https://user-images.githubusercontent.com/119393980/235111194-0b13212f-1ae1-46b6-8828-77e5905fdaf8.png)
+
  
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
